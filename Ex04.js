@@ -14,7 +14,7 @@ var percentualOutros = (outros*100)/total;
 
 var percentualTotal = percentualSP + percentualRJ + percentualMG + percentualES + percentualOutros;
 
-console.log (total);
+
 
 console.log ("Percentual de SP:"+ percentualSP + "%");
 console.log ("Percentual de RJ:"+ percentualRJ + "%");
@@ -22,6 +22,6 @@ console.log ("Percentual de MG:"+ percentualMG + "%");
 console.log ("Percentual de ES:"+ percentualES + "%");
 console.log ("Percentual de outros:"+ percentualOutros + "%");
 
-console.log (percentualTotal)
+
 
 
